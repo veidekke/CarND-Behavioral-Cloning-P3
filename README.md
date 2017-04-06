@@ -3,6 +3,16 @@
 ### Stephan Brinkmann
 
 ---
+## Preview
+
+Here's the car racing around track 2:
+
+[![youtube](https://img.youtube.com/vi/tyRiq3tCtVM/0.jpg)](https://www.youtube.com/watch?v=tyRiq3tCtVM)
+
+More details below.
+
+
+---
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
